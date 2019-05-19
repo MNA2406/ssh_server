@@ -8,7 +8,7 @@ RUN apt install -y python3 openssh-server
 
 RUN service ssh start
 
-RUN adduser sshmurali
+RUN useradd shmurali
 
-RUN compgen -u
+#RUN compgen -u
 
