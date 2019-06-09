@@ -1,0 +1,122 @@
+172.17.0.246 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5589268     3914972      376220     2706908     5931608
+Swap:       2097148           0     2097148
+172.17.0.245 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5577168     3927072      376220     2706908     5943708
+Swap:       2097148           0     2097148
+172.17.0.243 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5558776     3945464      376220     2706908     5962100
+Swap:       2097148           0     2097148
+172.17.0.242 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5537944     3966104      376124     2707100     5983120
+Swap:       2097148           0     2097148
+172.17.0.244 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5549344     3954704      376124     2707100     5971720
+Swap:       2097148           0     2097148
+172.17.0.247 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5581340     3922612      376124     2707196     5939632
+Swap:       2097148           0     2097148
+172.17.0.248 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5573724     3930228      376124     2707196     5947248
+Swap:       2097148           0     2097148
+172.17.0.249 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5558888     3953492      367696     2698768     5970508
+Swap:       2097148           0     2097148
+172.17.0.250 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5553968     3958412      367696     2698768     5975428
+Swap:       2097148           0     2097148
+172.17.0.251 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5545028     3967548      367696     2698572     5984564
+Swap:       2097148           0     2097148
+172.17.0.252 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5595624     3916764      367552     2698760     5934016
+Swap:       2097148           0     2097148
+172.17.0.253 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5592024     3920364      367552     2698760     5937616
+Swap:       2097148           0     2097148
+172.17.0.254 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5576424     3935964      367552     2698760     5953212
+Swap:       2097148           0     2097148
+172.17.0.255 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5579276     3933112      367552     2698760     5950360
+Swap:       2097148           0     2097148
+172.17.1.0 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5564996     3947392      367552     2698760     5964640
+Swap:       2097148           0     2097148
+172.17.1.5 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: connect to host 172.17.1.5 port 22: Connection refused\r\n", 
+    "unreachable": true
+}
+172.17.1.1 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5600484     3919940      359516     2690724     5937188
+Swap:       2097148           0     2097148
+172.17.1.2 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5598076     3922348      359516     2690724     5939600
+Swap:       2097148           0     2097148
+172.17.1.3 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5593316     3927108      359516     2690724     5944356
+Swap:       2097148           0     2097148
+172.17.1.4 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5588980     3931360      359344     2690808     5948864
+Swap:       2097148           0     2097148
+172.17.1.6 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5586212     3934128      359344     2690808     5951632
+Swap:       2097148           0     2097148
+172.17.1.7 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5611584     3908756      359344     2690808     5926260
+Swap:       2097148           0     2097148
+172.17.1.8 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5621292     3898756      359344     2691100     5916260
+Swap:       2097148           0     2097148
+172.17.1.9 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5611164     3908884      359344     2691100     5926388
+Swap:       2097148           0     2097148
+172.17.1.10 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5599224     3921020      359344     2690904     5938524
+Swap:       2097148           0     2097148
+172.17.1.15 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: connect to host 172.17.1.15 port 22: Connection refused\r\n", 
+    "unreachable": true
+}
+172.17.1.11 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5596816     3923428      359344     2690904     5940736
+Swap:       2097148           0     2097148
+172.17.1.12 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5593912     3926212      359244     2691024     5944032
+Swap:       2097148           0     2097148
+172.17.1.13 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5581860     3938264      359244     2691024     5956084
+Swap:       2097148           0     2097148
+172.17.1.14 | SUCCESS | rc=0 >>
+              total        used        free      shared  buff/cache   available
+Mem:       12211148     5568844     3951280      359244     2691024     5969100
+Swap:       2097148           0     2097148
